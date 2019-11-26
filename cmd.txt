@@ -1,0 +1,1 @@
+msg /server:172.19.123.248 * "sample of send message"
